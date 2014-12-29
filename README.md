@@ -1,2 +1,4 @@
-inf133-user-interaction
-=======================
+udacity-weatherapp
+==================
+
+The app built in Udacity's Android development course.
